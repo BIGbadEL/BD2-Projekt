@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BD2-Projekt/1.0.0": {
+        "runtime": {
+          "BD2-Projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BD2-Projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
